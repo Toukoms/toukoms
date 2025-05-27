@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toukoms&label=Profile%20views&color=0e75b6&style=flat" alt="toukoms" /> </p>
 
-- 🔭 I’m currently working on [AIZOKU](github.com/toukoms/aizoku)
+- 🔭 I’m currently working on [AIZOKU](https://github.com/toukoms/aizoku)
 - 🌱 I’m currently learning on Integration of AI in app, RAG, Fine Tunning
 - 💬 Ask me about Next.js, React, TypeScript, Java Spring Boot
 - 👨‍💻 All of my projects are available at [my portfolio](https://tokiniaina.vercel.app)
