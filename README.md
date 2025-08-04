@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tokiniaina</h1>
-<h3 align="center">I'm a tech lover and self-driven code artisan who believes in the power of digital tools to bring change — even in small steps. My mission: to innovate my country, Madagascar, first... and by doing so, help reshape the world.</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#6D28D9;">Toki</span></h1>
+<h3 align="center">💻 A passionate coder from <span style="color:#16A34A;">Madagascar</span> 🇲🇬</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toukoms&label=Profile%20views&color=0e75b6&style=flat" alt="toukoms" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=I+wake+up+excited+to+write+code+🔥;Always+thinking+of+what+to+build+🤔;Dreaming+about+apps+to+create+💡" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
+
+
 
 - 🔭 I’m currently working on [AIZOKU](https://github.com/toukoms/aizoku)
 - 🌱 I’m currently learning on Integration of AI in app, RAG, Fine Tunning
