@@ -9,10 +9,3 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
 </p>
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toukoms&show_icons=true&locale=en&layout=compact" alt="toukoms" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toukoms&show_icons=true&locale=en" alt="toukoms" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toukoms&" alt="toukoms" /></p>
